@@ -115,4 +115,49 @@ admin@juice-sh.op’ or ‘2’=’2
 ## Задание View Basket (\*\*)
 
 Задание выполнилось случайно после того как оставил товар в корзине и
-зашел в него
+зашел в неё
+
+## Задание Bonus Payload (\*)
+
+Добавляем в поисковую строку полезную нагрузку
+
+\<iframe width=“100%” height=“166” scrolling=“no” frameborder=“no”
+allow=“autoplay”
+src=“https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/771984076&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true”\>\</iframe\>
+
+![](images/clipboard-1853263723.png)
+
+Получаем музыку, которую не слышно
+
+![](images/clipboard-2160403965.png)
+
+Причем запускаем из score board, иначе задание не засчитывается.
+
+## Задание Bully Chatbot(\*)
+
+Создаем тестовый аккаунт
+
+![](images/clipboard-68986453.png)
+
+Входим во вкладку с обратной связью, открывается чат с ботом. Следует
+заспамить его фразой о купоне, после упорной атаки он сдается.
+
+![](images/clipboard-1235164992.png)
+
+![](images/clipboard-526274644.png)
+
+## Задание Pricacy Policy (\*)
+
+После создания аккаунта входим во вкладку Pricacy Policy
+
+![](images/clipboard-3868259885.png)
+
+## Задание DOM XSS (\*)
+
+Вводим в поисковую строку \<iframe src=“javascript:alert(\`xss\`)”\>
+
+![](images/clipboard-1852264328.png)
+
+## Задание confidential document (\*)
+
+## Задание Pricacy Policy (\*)
