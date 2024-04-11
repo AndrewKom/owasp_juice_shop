@@ -16,9 +16,95 @@ OWASP Juice Shop (Магазин сока) - вероятно, самое сов
 
 Проведем установку магазина сока на kali linux. Проведем обновление системы:
 
-```         
-hvhjv
-```
+<div>
+
+sudo apt-get update
+
+</div>
+
+<div>
+
+sudo apt-get upgrade
+
+</div>
+
+## 1 Вариант
+
+Для работы магазина требуется установить Node.js
+
+<div>
+
+sudo apt install nodejs
+
+</div>
+
+![](images/clipboard-3720334255.png)
+
+<div>
+
+sudo apt install npm
+
+</div>
+
+![](images/clipboard-1472595586.png)
+
+![](images/clipboard-3563752476.png)
+
+Теперь требуется лонировать репозиторий магазина сока на локальный компьютер.
+
+[Juice Shop](https://github.com/bkimminich/juice-shop.git)
+
+<div>
+
+git clone <https://github.com/bkimminich/juice-shop.git>
+
+</div>
+
+![](images/clipboard-3777003082.png)
+
+Перейдем в клонированный каталог и установим зависимости
+
+<div>
+
+cd juice-shop\
+\
+npm install
+
+</div>
+
+![](images/clipboard-906182033.png)
+
+После установки зависимости запустим веб-сервер и зайдем на него по ссылке: http://localhost:3000
+
+![](images/clipboard-1501726421.png)
+
+![](images/clipboard-3099994566.png)
+
+## 2 Вариант
+
+Скачивание как рекомендует официальный сайт [kali](https://www.kali.org/tools/juice-shop/):
+
+<div>
+
+sudo apt install juice-shop
+
+</div>
+
+Запускаем работу сервера
+
+![](images/clipboard-3338820446.png)
+
+После открытия ссылки
+
+![](images/clipboard-2923999542.png)
+
+Для остановки работы сервера требуется ввести команду:
+
+<div>
+
+juice-shop-stop -h
+
+</div>
 
 # Задания
 
