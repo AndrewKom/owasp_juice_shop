@@ -206,7 +206,7 @@ src=“https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/
 
 ## Задание Mass Dispel (\*)
 
-Mass Dispel
+Отказывается выполняться
 
 ## Задание Web3 Sandbox (\*)
 
@@ -233,3 +233,5 @@ Mass Dispel
 изменяем изначальный.
 
 ![](images/clipboard-4293560373.png)
+
+Выполнены все задания на 1\* и некоторые на 2\*\*

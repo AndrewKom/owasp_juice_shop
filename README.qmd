@@ -144,9 +144,7 @@ admin\@juice-sh.op' or '2'='2
 
 Добавляем в поисковую строку полезную нагрузку
 
-\<iframe width="100%" height="166" scrolling="no"
-frameborder="no" allow="autoplay"
-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/771984076&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"\>\</iframe\>
+\<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/771984076&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"\>\</iframe\>
 
 ![](images/clipboard-1853263723.png)
 
@@ -208,13 +206,13 @@ src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/77
 
 ![](images/clipboard-3786032526.png)
 
-## Задание Five-Star Feedback  (\*\*)
+## Задание Five-Star Feedback (\*\*)
 
 В меню из предыдущего задания удаляем 5-звездочный комментарий
 
 ![](images/clipboard-1125978565.png)
 
-## Задание Zero Stars   (\*)
+## Задание Zero Stars (\*)
 
 Выдаем сокрушительный отзыв с одной звездой. Переходим в обратную связь, проходим капчу и входим в код элемента. Убираем часть, которая отвечает за отключение кнопки.
 
@@ -222,28 +220,30 @@ src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/77
 
 ![](images/clipboard-3726912586.png)
 
-## Задание Mass Dispel   (\*)
+## Задание Mass Dispel (\*)
 
-Mass Dispel
+Отказывается выполняться
 
-## Задание Web3 Sandbox    (\*)
+## Задание Web3 Sandbox (\*)
 
 По названию задания становится понять, что необходимо перейти по адресу /web3-sandbox/
 
-## Задание Missing Encoding     (\*)
+## Задание Missing Encoding (\*)
 
 Заходим на вкладку со стеной фотографий. Находим первую, которая некорректно отображается. Изменяем код элемента с \# на %23
 
 ![](images/clipboard-4027196441.png)
 
-## Задание Outdated Allowlist      (\*)
+## Задание Outdated Allowlist (\*)
 
 Открываем в score-board код элемента, ищем redirect и переходим по данному адресу
 
 ![](images/clipboard-14730977.png)
 
-## Задание Repetitive Registration   (\*)
+## Задание Repetitive Registration (\*)
 
 При регистрации заполняем все данные, повторяем пороль, после чего изменяем изначальный.
 
 ![](images/clipboard-4293560373.png)
+
+Выполнены все задания на 1\* и некоторые на 2\*\*
