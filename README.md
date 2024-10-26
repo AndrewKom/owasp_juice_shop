@@ -79,6 +79,12 @@ sudo apt install juice-shop
 
 juice-shop-stop -h
 
+## 3 Вариант
+
+Есть возможность установить программу как часть целого образа ![целого образа](https://sourceforge.net/projects/websecuritydojo/files/Version_3.4.1/)
+
+Автономная обучающая среда с открытым исходным кодом для тестирования веб-приложений на проникновение.
+
 # Задания
 
 ## Задание score board (\*)
